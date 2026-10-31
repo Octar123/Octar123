@@ -36,7 +36,7 @@ I am a full-stack developer passionate about writing clean code, designing robus
 
 ### 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Octar123&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Ranjan's GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Octar123&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Ranjan's GitHub Stats" />
 </div>
 
 ### 📫 Let's Connect
