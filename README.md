@@ -32,7 +32,7 @@ I am a full-stack developer passionate about writing clean code, designing robus
 | :--- | :--- | :--- |
 | **[Razorpay Clone](https://github.com/Octar123/razorpay_clone)** | Payment gateway simulation with 10+ RESTful APIs, Spring Security, JWT, and Redis caching for reduced database lookups. | `Java` `Spring Boot` `PostgreSQL` `Redis` |
 | **[URL Shortener](https://github.com/Octar123/URL-Shortner)** | Full-stack link management platform with nanoid short codes, Prisma ORM, and Dockerized local development. | `Next.js` `TypeScript` `Prisma` `Docker` |
-| **E-Commerce ERP** | Built during internship. Features a 9-entity SQLite/TypeORM schema and 25+ secure API endpoints. | `Angular` `Node.js` `TypeORM` |
+| **[E-Commerce ERP](https://github.com/Octar123/E-Commerce)** | Built during internship. Features a 9-entity SQLite/TypeORM schema and 25+ secure API endpoints. | `Angular` `Node.js` `TypeORM` |
 
 ### 📈 GitHub Stats
 <div align="center">
